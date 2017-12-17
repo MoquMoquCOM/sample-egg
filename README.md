@@ -1,3 +1,3 @@
 # sample-egg
 
-<div class="tamago"></div>
+<div class="tamago">たま</div>
